@@ -1,0 +1,10 @@
+John Doe, TCS, Male, 8.5, CSE, 750000, john.doe@example.com, 9876543210
+Jane Smith, Infosys, Female, 8.2, IT, 700000, jane.smith@example.com, 8765432109
+Mike Johnson, Wipro, Male, 8.7, EC, 800000, mike.johnson@example.com, 7654321098
+Emily Davis, Accenture, Female, 8.9, CSE, 900000, emily.davis@example.com, 6543210987
+Alex Turner, Informatica, Male, 8.4, IT, 850000, alex.turner@example.com, 5432109876
+Sara Williams, TCS, Female, 8.6, EC, 780000, sara.williams@example.com, 4321098765
+David Miller, Infosys, Male, 8.1, CSE, 720000, david.miller@example.com, 3210987654
+Sophia Brown, Wipro, Female, 8.8, IT, 920000, sophia.brown@example.com, 2109876543
+Chris Martin, Accenture, Male, 8.3, EC, 820000, chris.martin@example.com, 1098765432
+Ella Taylor, Informatica, Female, 8.7, CSE, 890000, ella.taylor@example.com, 9876543210
